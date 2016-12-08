@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2014 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+  <string name="app_name">app</string>
+
+    <string name="prompt_we_need_camera">我们需要您提供相关权限以使我们能够更好的为您服务.</string>
+    <string name="prompt_request_camara">我们即将请求相机相关的权限.是否前往请求?</string>
+    <string name="prompt_already_get_permission">已获得相机权限</string>
+    <string name="prompt_been_denied">已被拒绝获取权限,不能进行扫码</string>
+
+    <string name="prompt_request_phone">我们即将请求访问电话的权限.是否前往请求?</string>
+    <string name="prompt_phone_denied">已被拒绝获取拨号权限,不能进行拨号</string>
+
+    <string name="prompt_request_file">我们即将请求文件读写的权限权限.是否前往请求?</string>
+    <string name="prompt_already_get_file_permission">已获得文件读写权限</string>
+    <string name="prompt_file_been_denied">已被拒绝获取权限,不能进行下载</string>
+
+    <string name="app_update">软件更新</string>
+    <string name="new_version">发现新版本</string>
+    <string name="update">更新</string>
+    <string name="loading">加载中</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="downloading">下载中</string>
+</resources>

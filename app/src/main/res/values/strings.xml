@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+    <string name="prompt_we_need_camera">We need you to provide the relevant details so that we can serve you better.</string>
+    <string name="prompt_request_camara">We need to request for camera-related matters,should we access request?</string>
+    <string name="prompt_already_get_permission">Already requested for camera related matters</string>
+    <string name="prompt_been_denied">Request has been denied,you can not scan code</string>
+    <string name="prompt_request_file">We are about to request the right to read and write files.Should we access request?</string>
+    <string name="prompt_already_get_file_permission">We have obtained permission to read and write files</string>
+    <string name="prompt_file_been_denied">Permission request has been denied,cannot continue download</string>
+
+    <string name="prompt_request_phone">We are about to request the right to dial.Should we access request?</string>
+    <string name="prompt_phone_denied">Permission request has been denied,cannot dial</string>
+
+    <string name="app_update">App Update</string>
+    <string name="new_version">New Version</string>
+    <string name="update">Update</string>
+    <string name="loading">Loading</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="downloading">DownLoading</string>
+</resources>
